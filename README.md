@@ -105,4 +105,4 @@ Feel free to fork this repository and contribute to any of the project ideas by 
 This project is open source and available under the [MIT License](LICENSE.md).
 
 ## Contact
-If you have any questions, feel free to contact me at [YourEmail@example.com](mailto:YourEmail@example.com).
+If you have any questions, feel free to contact me at [futuresuperpilot@gmail.com](mailto:futuresuperpilot@gmail.com).
